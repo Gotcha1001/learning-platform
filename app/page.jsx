@@ -99,13 +99,14 @@ import Autoplay from "embla-carousel-autoplay";
 // Enhanced carousel slides showcasing the learning platform
 const carouselSlides = [
   { src: "/morning.jpg", alt: "AI Course Creation Dashboard" },
-  { src: "/morning.jpg", alt: "YouTube Video Integration" },
-  { src: "/morning.jpg", alt: "Smart Learning Materials" },
-  { src: "/morning.jpg", alt: "Progress Tracking System" },
-  { src: "/morning.jpg", alt: "AI-Generated Content" },
-  { src: "/morning.jpg", alt: "Interactive Course Builder" },
-  { src: "/morning.jpg", alt: "Automated Video Production" },
-  { src: "/morning.jpg", alt: "Personalized Learning Path" },
+  { src: "/1.jpg", alt: "YouTube Video Integration" },
+  { src: "/2.jpg", alt: "Smart Learning Materials" },
+  { src: "/3.jpg", alt: "Progress Tracking System" },
+  { src: "/4.jpg", alt: "AI-Generated Content" },
+  { src: "/5.jpg", alt: "Interactive Course Builder" },
+  { src: "/6.jpg", alt: "Automated Video Production" },
+  { src: "/7.jpg", alt: "Personalized Learning Path" },
+  { src: "/8.jpg", alt: "Personalized Learning Path" },
 ];
 
 // Floating particles animation data
